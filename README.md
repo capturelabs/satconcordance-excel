@@ -6,4 +6,4 @@ This repository contains an Excel workbook with a series of tabs that provide us
 
 ## Disclaimers
 SAT® is a trademark registered by the College Board, which is not affiliated with, and does not endorse, this website or code base.
-ACT@ is a trademark registered by the ACT, which is not affiliated with, and does not endorse, this website or code base.
+ACT® is a trademark registered by the ACT, which is not affiliated with, and does not endorse, this website or code base.
